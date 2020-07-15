@@ -78,7 +78,7 @@
   "license": "MIT",
   "dependencies": {
     "@owczar/spin-template": "^1.5.2",
-    "assign-deep": "^0.4.5",
+    "assign-deep": "^0.4.8",
     "autocast": "0.0.4",
     "babel-cli": "^6.5.1",
     "babel-core": "^6.3.17",
