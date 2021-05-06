@@ -142,7 +142,7 @@
     "react-dnd": "^2.4.0",
     "react-dnd-html5-backend": "^2.4.1",
     "react-dom": "^15.0.0",
-    "react-draft-wysiwyg": "^1.10.7",
+    "react-draft-wysiwyg": "^1.14.6",
     "react-dropzone": "^3.13.3",
     "react-dual-listbox": "^1.1.0",
     "react-grid-layout": "^0.13.9",
