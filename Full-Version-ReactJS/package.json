@@ -176,7 +176,7 @@
     "text-mask-addons": "^3.3.0",
     "tinycolor2": "^1.4.1",
     "truncate": "^2.0.0",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "url-loader": "^0.5.6",
     "velocity-animate": "^1.2.3",
     "webpack": "^1.12.14",
