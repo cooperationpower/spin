@@ -97,7 +97,7 @@
     "chartist": "^0.9.7",
     "css-loader": "^0.23.0",
     "cssnano": "^3.3.2",
-    "debug": "^2.2.0",
+    "debug": "^2.6.9",
     "deep-assign": "^2.0.0",
     "draft-js": "^0.10.1",
     "extract-text-webpack-plugin": "^1.0.0",
